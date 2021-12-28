@@ -6,8 +6,8 @@
 ### `AJUSTES`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/blob/master/config.js)
 
-### `Video tutorial para instalar el Bot`
-<a href="https://youtu.be/dP8-aaHinBE"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
+### `Canal de Youtube`
+<a href="youtube.com/roberthCepaya"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
 > Dar click en la imagen para redireccionarlos a YouTube
 
 ### `INSTALACION TERMUX OPCION 1 (GitHub)`
@@ -17,7 +17,7 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot
+> git clone https://github.com/RoberthCepaya/RoberthCepaya.git
 > cd TheShadowBrokers-Bot
 > npm install
 > npm install -g npm@8.1.4
@@ -34,7 +34,7 @@ https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/archive/refs/heads/mas
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > termux-setup-storage
-> cd storage/downloads/TheShadowBrokers-Bot
+> cd storage/downloads/RoberthCepaya-Bot
 > npm install
 > npm install -g npm@8.1.4
 > npm update
