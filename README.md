@@ -18,7 +18,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/RoberthCepaya/RoberthCepaya.git
-> cd TheShadowBrokers-Bot
+> cd RoberthCepaya
 > npm install
 > npm install -g npm@8.1.4
 > npm update
