@@ -26,7 +26,7 @@
 ```
 ### `INSTALACION TERMUX OPCION 2 (Archivos)`
 > Descarga aqui los achivos: 
-https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/archive/refs/heads/master.zip
+https://github.com/RoberthCepaya/RoberthCepaya/archive/refs/heads/master.zip
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
