@@ -1,8 +1,8 @@
-# ***`The Shadow Brokers - Bot`***
+# ***`The RoberthCepaya - Bot`***
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/5219996125657" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete al grupo ofical para conocer novedades del Bot`
-[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
+[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EbtIFzvKcHA3AKhYv8CB5K)
 ### `AJUSTES`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/blob/master/config.js)
 
@@ -58,5 +58,5 @@ excesivamente lento
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![TheShadowBrokers1](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
 ```bash
-`The Shadow Brokers - Bot ___ by Bruno Sobrino` 
+`The Shadow Brokers - Bot ___ by RoberthCepaya` 
 ```
