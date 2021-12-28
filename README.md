@@ -56,7 +56,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![TheShadowBrokers1](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
+[![TheRoberthCepaya1]()](https://github.com/TheShadowBrokers1) 
 ```bash
 `The Shadow Brokers - Bot ___ by RoberthCepaya` 
 ```
