@@ -1,0 +1,108 @@
+/* Estilos para el encabezado (header) */
+header {
+    background-color: #333;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px; /* Mayor separación entre el header y la sección Acerca de */
+}
+
+/* Estilos para la sección Acerca de */
+#acerca {
+    background-image: url('Galeria/fotos/0a4dcb92fa2d3c601b58d72720d6bec4.jpg');
+    padding: 200px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0);
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Estilos para el contenido */
+#acerca .contenido {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#acerca h2 {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+#servicios h2 {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+#servicios li {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+#acerca p {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1.6;
+}
+/* Estilos para las secciones con efecto de desenfoque */
+.section-blur h2 {
+    background-color: rgba(255, 255, 255, 0.178); /* Agrega un fondo semitransparente para el desenfoque */
+    padding: 270px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-radius: 9px;
+    backdrop-filter: blur(3px); /* Aplica el efecto de desenfoque */
+}
+#acerca.section-blur p {
+    background-color: rgba(255, 255, 255, 0.103); /* Fondo semitransparente para el desenfoque */
+    padding: 40px 0;
+    box-shadow: 0px 4px 6px rgba(255, 254, 254, 0.1);
+    margin-bottom: 20px;
+    border-radius: 9px;
+    backdrop-filter: blur(8px); /* Efecto de desenfoque */
+}
+/* Estilos para la sección Servicios con efecto de desenfoque */
+#servicios.section-blur {
+    background-image: url('Galeria/fotos/0a4dcb92fa2d3c601b58d72720d6bec4.jpg'); /* Agrega la ruta de tu imagen de fondo */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-position: center; /* Centra la imagen de fondo */
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para el desenfoque */
+    padding: 40px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    backdrop-filter: blur(8px); /* Efecto de desenfoque */
+}
+/* Estilos para el menú de navegación (ul) en el encabezado */
+#servicios.section-blur ul {
+
+    backdrop-filter: blur(8px); /* Aplica el efecto de desenfoque solo al menú */
+    background-color: rgba(255, 255, 255, 0.103); /* Agrega un fondo semitransparente para el desenfoque */
+    padding: 10px;
+}
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    clear: both;
+}
+/* Estilos para el botón flotante */
+.floating-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff9900;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.floating-button:hover {
+    background-color: #ff6600;
+}

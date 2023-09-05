@@ -1,0 +1,215 @@
+/* Reset de estilos */
+body, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    border-radius: 9px;
+}
+
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #212121;
+    line-height: 1.6;
+}
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+h1:hover {
+    background: linear-gradient(#ff9900 0%, #ff9900 100%); /* Cambia el fondo al pasar el ratón */
+}
+
+/* Estilos adicionales para el menú */
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 70px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ff9900;
+}
+
+/* Aplica un margen superior para mover el menú desplegable hacia abajo */
+nav .dropdown-content {
+    margin-top: 8px; /* Ajusta el valor según la cantidad de espacio que desees */
+}
+
+/* Cambio de fondo de las letras al pasar el cursor por encima */
+h1:hover,
+nav li:hover {
+    background-color: #ff9900;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    color: #fff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Menú desplegable */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #444;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    border-radius: 9px;
+
+}
+
+section {
+    padding: 400px 0;
+    background-color: #f8f3f3;
+    box-shadow: 0px 4px 6px rgb(255, 255, 255);
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.contenido {
+    background: #0077ff3b;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.103); /* Agrega un fondo semitransparente para el desenfoque */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    border-radius: 9px;
+    backdrop-filter: blur(8px);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+/* Botón flotante */
+.floating-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff9900;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 6px rgba(83, 2, 63, 0.959);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.floating-button:hover {
+    background-color: #88ff00;
+}
+
+/* Tabla de horarios */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-radius: 8px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    clear: both;
+}
+/* Estilos para el logo */
+#logo {
+    max-width: 60px;
+    height: auto;
+    display: block;
+}
+/* Estilos adicionales para el menú */
+nav ul {
+    list-style-type: none;
+}
+
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+/* Cambio de fondo de las letras al pasar el cursor por encima */
+h1:hover,
+nav li:hover {
+    background-color: #ae00ff;
+    padding: 5px 10px; /* Añade espacio alrededor de las letras */
+    border-radius: 5px; /* Aplica esquinas redondeadas */
+    display: inline-block; /* Hace que el fondo se aplique solo alrededor del texto */
+    color: #0077ffb7; /* Cambia el color del texto para que sea legible */
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+#inicio {
+background-image: url('https://i.redd.it/uwwte8wps4h91.gif');
+    background-color: rgba(255, 255, 255, 0.103); /* Agrega un fondo semitransparente para el desenfoque */ 
+    backdrop-filter: blur(8px);
+}
+#acerca {
+    background-image: url('https://i.redd.it/x4hnwsvps4h91.gif');
+}
+#contacto {
+    background-image: url('https://i.redd.it/0k6meqvps4h91.gif');
+}
+#horarios {
+    background-image: url('https://i.redd.it/0k6meqvps4h91.gif');
+}

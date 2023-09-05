@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Presentación de Texto</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: aqua;
+        }
+
+        .presentation {
+            padding: 20px;
+        }
+
+        .text {
+            font-size: 36px; /* Texto más grande */
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation">
+        <div class="text" id="text1">Bienvenidos a mi pagina...:3</div>
+        <div class="text" id="text2" style="display: none;">Soy el Creador de esta pagina 
+        estare actualizando </div>
+    </div>
+    <div class="social-buttons">
+        <a class="social-button" href="https://www.facebook.com/roberthhcepaya"  target="_blank">
+            <img src="Galeria/facebook_4494475.png" width="40" alt="Facebook">
+        </a>
+        <a class="social-button" href="https://twitter.com/RoberthCepaya" target="_blank">
+            <img src="Galeria/twitter_2504839.png" width="40" alt="Twitter">
+        </a>
+        <a class="social-button" href="https://www.instagram.com/roberth_ccepaya" target="_blank">
+            <img src="Galeria/instagram_4138124.png" width="40" alt="Instagram">
+        </a>
+        <!-- Agrega más botones y enlaces aquí si es necesario -->
+    </div>
+
+    <script>
+        let currentText = 1;
+
+        function changeText() {
+            const text1 = document.getElementById('text1');
+            const text2 = document.getElementById('text2');
+
+            if (currentText === 1) {
+                text1.style.display = 'none';
+                text2.style.display = 'block';
+                currentText = 2;
+            } else {
+                text1.style.display = 'block';
+                text2.style.display = 'none';
+                currentText = 1;
+            }
+        }
+
+        // Cambiar automáticamente cada 5 segundos (5000 milisegundos)
+        setInterval(changeText, 5000);
+    </script>
+
+</body>
+</html>

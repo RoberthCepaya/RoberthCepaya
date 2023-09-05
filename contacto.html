@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="icon" href="RC.ico">
+
+
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://wallpaperaccess.com/full/2825826.gif');
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .contacto-form {
+            background-color: rgba(255, 255, 255, 0.164); /* Fondo semi-transparente para el efecto de desenfoque */
+            border-radius: 15px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 100px auto; /* Margen superior aumentado */
+            padding: 50px;
+            max-width: 450px;
+            backdrop-filter: blur(10px); /* Aplicar efecto de desenfoque */
+        }
+
+        .contacto-form h2 {
+            margin-top: 0;
+        }
+
+        .contacto-form input[type="text"],
+        .contacto-form input[type="email"],
+        .contacto-form textarea {
+            width: 100%;
+            padding: 7px;
+            margin-bottom: 10px;
+            border: 1px solid #ff0000;
+            border-radius: 6px;
+        }
+
+        .contacto-form button {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .contacto-form button:hover {
+            background-color: #0056b3;
+        }
+        .boton-flotante {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 20px;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .boton-flotante:hover {
+            background-color: #0056b3;
+        }
+        /* Pie de página */
+        footer {
+           background-color: #333;
+           color: #fff;
+           text-align: center;
+           padding: 10px 0;
+           clear: both;
+        }   
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="image (2).png " alt="Tu Logo" id="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="acerca.html">Acerca</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li class="dropdown">
+                    <a href="#">Servicios</a>
+                    <div class="dropdown-content">
+                        <a href="galeria.html">Galeria</a>
+                        <a href="#Horarios">Horario</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+
+    </header>
+</head>
+<button class="boton-flotante" onclick="window.history.back()">&#8592;</button>
+<body>
+    <div class="contacto-form">
+        <h2>Ponte en Contacto conmigo</h2>
+        <form action="#" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+
+            <label for="correo">Correo Electrónico:</label>
+            <input type="email" id="correo" name="correo" required>
+
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+
+            <div class="botones">
+                <button type="submit">Enviar</button>
+                <button type="button" onclick="window.history.back();">Volver</button>
+            </div>
+        </form>
+    </div>
+    <footer>
+        <p>Derechos de Autor &copy; 2023 Mi Página Web</p>
+    </footer>
+</body>    
