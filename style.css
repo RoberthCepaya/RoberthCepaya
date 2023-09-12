@@ -1,0 +1,51 @@
+body {
+    overflow-y: hidden; /*quitar el scroll*/
+}
+.contenedor {
+    position: absolute;
+    top: 0;
+    background-color: #618d1a;
+    color: rgb(#255, #255, #255);
+    width: 100%;
+    min-height: 100vh;
+    display: flex; /*contener flexible alinea al centro 
+    el centro del contenido de la caja*/
+}
+.cargar {
+    margin: auto;
+    width: 350px;
+    height: 30px;
+    background: #7272721a;
+    position: relative;
+
+}
+.cargar:before {
+    content: "";
+    position: absolute;
+    background: rgb(255, 80, 255);
+    width: 0;
+    height: 30px;
+    animation: cargar 2s infinite;
+}
+.cargar p {
+    margin: 0;
+    line-height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    left: 30%;
+}
+.cerrar {
+    transform: translateY(-100%);
+    transition: all 0.5s;
+}
+@keyframes cargar {
+    100% {
+        width: 100%;
+        opacity: 1;
+    }
+}
+p {
+    color: aqua;
+    text-decoration: a
+    }
