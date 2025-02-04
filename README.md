@@ -38,9 +38,9 @@ Un proyecto relacionado con el anime, como una base de datos de personajes o una
 ## **Contacto**
 ¡No dudes en contactarme si quieres colaborar o hablar de bots y anime! 😊
 
-- 📧 Correo: [tuemail@example.com](huamanrch@gmail.com)
+- 📧 Correo: [huamanrch@gmail.com](huamanrch@gmail.com)
 - 💬 WhatsApp: [Enlace de WhatsApp](https://wa.me/51918583874)
-- 🌐 Twitter: [@tusuario](https://twitter.com/roberthcepaya)
+- 🌐 Twitter: [@roberthcepaya](https://twitter.com/roberthcepaya)
 
 ---
 
