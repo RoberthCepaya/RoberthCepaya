@@ -1,12 +1,12 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy [RoberthCepaya]
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a apasionado/a por los bots de WhatsApp y el anime. Aquí encontrarás mis proyectos, mis intereses y un poco de mi mundo. 🌸
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado por los bots de WhatsApp y el anime. Aquí encontrarás mis proyectos, mis intereses y un poco de mi mundo. 🌸
 
 ---
 
 ## **Sobre mí**
 - 🧑‍💻 Me encanta programar bots de WhatsApp.
-- 🌟 Fanático/a del anime (¡mis favoritos son [Nombre del Anime] y [Nombre del Anime]!).
+- 🌟 Fanático/a del anime (¡mis favoritos son [TAKI] y [KIRITO]!).
 - 📚 Siempre aprendiendo cosas nuevas.
 - 🎮 En mi tiempo libre, me gusta jugar videojuegos y ver series.
 
@@ -38,9 +38,9 @@ Un proyecto relacionado con el anime, como una base de datos de personajes o una
 ## **Contacto**
 ¡No dudes en contactarme si quieres colaborar o hablar de bots y anime! 😊
 
-- 📧 Correo: [tuemail@example.com](mailto:tuemail@example.com)
-- 💬 WhatsApp: [Enlace de WhatsApp](https://wa.me/tunumerodetelefono)
-- 🌐 Twitter: [@tusuario](https://twitter.com/tusuario)
+- 📧 Correo: [tuemail@example.com](huamanrch@gmail.com)
+- 💬 WhatsApp: [Enlace de WhatsApp](https://wa.me/51918583874)
+- 🌐 Twitter: [@tusuario](https://twitter.com/roberthcepaya)
 
 ---
 
