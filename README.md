@@ -20,8 +20,8 @@
 [---](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif)
 
 ## **Proyectos destacados**
-### 🤖 [Nombre del Bot de WhatsApp](enlace_al_repositorio)
-Un bot de WhatsApp que hace [breve descripción del bot]. ¡Échale un vistazo!
+### 🤖 [TAKI - BOT ](git@github.com:RoberthCepaya/TAKI-BOT.git)
+Un bot de WhatsApp que hace [¡Bienvenido/a al repositorio de mi bot de WhatsApp! Este bot está diseñado para hacer tu vida más fácil y divertida con una amplia variedad de funciones. Desde utilidades prácticas hasta entretenimiento, este bot lo tiene todo. ¡Y lo mejor es que estará en constante evolución con nuevas actualizaciones!]. ¡Échale un vistazo!
 
 ### 🌸 [Nombre del Proyecto de Anime](enlace_al_repositorio)
 Un proyecto relacionado con el anime, como una base de datos de personajes o una app de recomendaciones.
