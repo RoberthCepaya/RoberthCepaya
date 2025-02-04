@@ -1,35 +1,52 @@
-# Mi Primera Página Web
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-¡Bienvenido a mi primer proyecto web! En este repositorio, encontrarás los archivos y el código fuente de mi primera página web. Esta página fue creada como parte de mi aprendizaje y para practicar mis habilidades en desarrollo web.
+¡Bienvenido/a a mi perfil de GitHub! Soy un/a apasionado/a por los bots de WhatsApp y el anime. Aquí encontrarás mis proyectos, mis intereses y un poco de mi mundo. 🌸
 
-## Contenido
+---
 
-- [Descripción](#Este es mi primera pagina web)
-- [Requisitos](#requisitos)
-- [Instrucciones de Uso](#instrucciones-de-uso)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
+## **Sobre mí**
+- 🧑‍💻 Me encanta programar bots de WhatsApp.
+- 🌟 Fanático/a del anime (¡mis favoritos son [Nombre del Anime] y [Nombre del Anime]!).
+- 📚 Siempre aprendiendo cosas nuevas.
+- 🎮 En mi tiempo libre, me gusta jugar videojuegos y ver series.
 
-## Descripción
+---
 
-Esta página web es un proyecto simple que [breve descripción de lo que hace la página].
+## **Mis habilidades**
+- 💻 Lenguajes: JavaScript, Python.
+- 🤖 Frameworks: Baileys, Twilio.
+- 🛠 Herramientas: Git, Visual Studio Code.
 
-## Requisitos
+---
 
-Para ver esta página web, necesitas un navegador web moderno como Google Chrome, Mozilla Firefox o Microsoft Edge.
+## **Proyectos destacados**
+### 🤖 [Nombre del Bot de WhatsApp](enlace_al_repositorio)
+Un bot de WhatsApp que hace [breve descripción del bot]. ¡Échale un vistazo!
 
-## Instrucciones de Uso
+### 🌸 [Nombre del Proyecto de Anime](enlace_al_repositorio)
+Un proyecto relacionado con el anime, como una base de datos de personajes o una app de recomendaciones.
 
-1. Clona este repositorio en tu máquina local usando el siguiente comando:
-   ```bash
-   git clone https://github.com/RoberthCepaya/Misite/
-   git checkout -b tu-nueva-funcionalidad
-   git commit -m "Agrega tu mejora o característica"
-   git push origin tu-nueva-funcionalidad
-   
-Asegúrate de personalizar este README con la información específica de tu proyecto, como la descripción de la página, los requisitos y las capturas de pantalla. Luego, guárdalo como un archivo llamado `README.md` en la raíz de tu repositorio en GitHub. Esto ayudará a los visitantes y colaboradores a entender y utilizar tu proyecto.
+---
 
+## **Estadísticas de GitHub**
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
+---
 
+## **Contacto**
+¡No dudes en contactarme si quieres colaborar o hablar de bots y anime! 😊
+
+- 📧 Correo: [tuemail@example.com](mailto:tuemail@example.com)
+- 💬 WhatsApp: [Enlace de WhatsApp](https://wa.me/tunumerodetelefono)
+- 🌐 Twitter: [@tusuario](https://twitter.com/tusuario)
+
+---
+
+## **Anime favorito del día**
+![Anime](https://media.giphy.com/media/ANb7Yg1vYhxMQ/giphy.gif)
+
+---
+
+¡Gracias por visitar mi perfil! 🎉
