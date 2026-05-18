@@ -88,8 +88,9 @@ Módulos avanzados inyectados de forma nativa en el procesador centralizado de m
 </p>
 
 ## **🌸 Anime Mood**
+
 <p align="center">
-  <img src="https://media.tenor.com/97Sclq6fE7gAAAAC/sao-kirito.gif" alt="Kirito SAO" width="60%"/>
+  <img src="https://i.pinimg.com/originals/b5/9e/6a/b59e6ae51f83ebdbaa36177e5ceb0b9f.gif" alt="Anime GIF" width="60%"/>
 </p>
 
 <p align="center">
